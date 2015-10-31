@@ -1,5 +1,9 @@
 body {
 	margin: 0;
-	color: #ccc;
-	background: #333;
+	color: #111;
+	background: #0a2;
+}
+
+h1 {
+	font-size: 80px;
 }
